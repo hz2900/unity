@@ -1,0 +1,4 @@
+repository "Tanghulu@wechat_os_qy0wetlnk83lqoo5ls7xxmvr4@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
